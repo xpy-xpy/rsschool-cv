@@ -1,38 +1,51 @@
 # [rsschool-cv](https://github.com/xpy-xpy/rsschool-cv/)
----
+
+
 ![alt text](https://avatars.githubusercontent.com/u/18268132?s=200&u=1b7003c536853493522ade5714ff74740eef9e93&v=4)
 
 # Pigsayshi Takusan
 
 
----
 ## Contact Info
-Schweinfurt, Grmagele Straße 5
-777 
+\
+5 Grmagele Straße\
+Schweinfurt\
+Deutschland
+
 ---
+
 ## About
 Just a pig, nothing to brag about
 
 ---
-## Skills:
+
+## Skills
 * Eat
-* Eat
-* Oink
+* Eat 
+* Magic Oink  ✨
+
+
 ---
-## Code Examples:
-    if (butcher.isnear == true) {
-      hide;
+
+## Code Examples
+    if (butcher.isNear == true) {
+      hide();
     } else {
-      havefun;
+      haveFun();
     }
 
 ---
-## Education:
+
+## Education
 * School of Life
-* Pork University of Schweinfurt
+* Pork University of Schweinfurt 
+     * Bachelor of Sausage, summa cum laude
 
 ---
-## Languages:
+
+## Languages
 * Pork - C2
+* Bernpork - C1
 * English - C1
+
 ---
