@@ -1,20 +1,19 @@
 # [rsschool-cv](https://github.com/xpy-xpy/rsschool-cv/)
 
-
 ![alt text](https://avatars.githubusercontent.com/u/18268132?s=200&u=1b7003c536853493522ade5714ff74740eef9e93&v=4)
 
 # Pigsayshi Takusan
 
-
 ## Contact Info
-\
-5 Grmagele Straße\
-Schweinfurt\
+  
+5 Grmagele Straße  
+Schweinfurt  
 Deutschland
 
 ---
 
 ## About
+
 Just a pig, nothing to brag about
 
 ---
@@ -23,7 +22,6 @@ Just a pig, nothing to brag about
 * Eat
 * Eat 
 * Magic Oink  ✨
-
 
 ---
 
