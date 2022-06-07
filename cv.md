@@ -2,13 +2,13 @@
 
 ![alt text](https://avatars.githubusercontent.com/u/18268132?s=200&u=1b7003c536853493522ade5714ff74740eef9e93&v=4)
 
-# Pigsayshi Takusan
+# Pigsayshi Roringusukopu
 
 ## Contact Info
   
 5 Grmagele Straße  
 Schweinfurt  
-Deutschland
+BY-Bye, 20 22
 
 ---
 
@@ -42,8 +42,8 @@ Just a pig, nothing to brag about
 ---
 
 ## Languages
-* Pork - C2
-* Bernpork - C1
-* English - C1
+* Pork - **C2**
+* Bernpork - __*C1*__
+* English - *C1*
 
 ---
