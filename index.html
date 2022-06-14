@@ -1,16 +1,129 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
-</head>
-<body>
-    <article>
-        <p>ggg<span class="text-block">gggg54gg</span><img src="" alt=""></p>
-    </article>
-    <script src="script.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <div class="name">
+          <h1>Pigsayshi Roringusukopu</h1>
+        </div>
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item">
+              <a href="#about" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+              <a href="#contacts" class="nav-link">Contacts</a>
+            </li>
+            <li class="nav-item">
+              <a href="#skills" class="nav-link">Skills</a>
+            </li>
+            <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+            <li class="nav-item">
+              <a href="#projects" class="nav-link">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a href="#education" class="nav-link">Education</a>
+            </li>
+            <li class="nav-item">
+              <a href="#languages" class="nav-link">Languages</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <main>
+        <div class="left-col">
+          <section class="image-section">
+            <img src="assets/pig200.jpg" alt="Pig" class="avatar" />
+          </section>
+
+          <section id="about">
+            <h2>About</h2>
+            <p>Just a pig, nothing to brag about...</p>
+          </section>
+          <section id="contacts">
+            <h2>Contacts</h2>
+            <ul>
+              <li>Schweinfurt, DE</li>
+
+              <li>Discord: xpy-xpy#4297</li>
+            </ul>
+          </section>
+          <section id="languages">
+            <h2>Languages</h2>
+            <ul>
+              <li>Pork - C2</li>
+              <li>Bernpork - C1</li>
+              <li>English - C1</li>
+            </ul>
+          </section>
+        </div>
+
+        <div class="right-col">
+          <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+              <li>Eat</li>
+              <li>Eat</li>
+              <li>Magic Oink ✨</li>
+            </ul>
+          </section>
+          <section id="code">
+            <h2>Code</h2>
+
+            <code>
+              <pre>
+if (butcher.isNear == true) { 
+    hide(); 
+    } else { 
+        haveFun(); 
+    }</pre
+              >
+            </code>
+          </section>
+          <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+              <li>Farm Escape (in progress)</li>
+            </ul>
+          </section>
+          <section id="education">
+            <h2>Education</h2>
+            <ul>
+              <li>
+                Pork University of Schweinfurt <br />
+                (Bachelor of Sausage, summa cum laude)
+              </li>
+            </ul>
+          </section>
+        </div>
+      </main>
+
+      <footer class="footer">
+        © 2022
+        <a href="https://github.com/xpy-xpy">
+          <img src="assets/github.svg" alt="github logo" height="25px" />
+        </a>
+        <a href="https://rs.school/js/">
+          <img
+            src="assets/rs_school_js.svg"
+            alt="rsschool logo"
+            height="25px"
+          />
+        </a>
+      </footer>
+    </div>
+  </body>
 </html>
