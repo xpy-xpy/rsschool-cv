@@ -5,7 +5,7 @@
 # Pigsayshi Roringusukopu
 
 ## Contact Info
-  
+
 5 Grmagele Straße  
 Schweinfurt  
 BY-Bye, 20 22
@@ -19,13 +19,15 @@ Just a pig, nothing to brag about
 ---
 
 ## Skills
-* Eat
-* Eat 
-* Magic Oink  ✨
+
+- Eat
+- Eat
+- Magic Oink ✨
 
 ---
 
 ## Code Examples
+
     if (butcher.isNear == true) {
       hide();
     } else {
@@ -35,15 +37,17 @@ Just a pig, nothing to brag about
 ---
 
 ## Education
-* School of Life
-* Pork University of Schweinfurt 
-     * Bachelor of Sausage, summa cum laude
+
+- School of Life
+- Pork University of Schweinfurt
+  - Bachelor of Sausage, summa cum laude
 
 ---
 
 ## Languages
-* Pork - **C2**
-* Bernpork - __*C1*__
-* English - *C1*
+
+- Pork - **C2**
+- Bernpork - **_C1_**
+- English - _C1_
 
 ---
